@@ -7,60 +7,569 @@ Direct3D:
     VRAM:     8079 MB
     Driver:   27.21.14.5730
 Begin MonoManager ReloadAssembly
-Platform assembly: D:\Users\PC\Documents\GitHub\Autonomous-Car-CNN-Model\beta_simulator_windows\beta_simulator_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading D:\Users\PC\Documents\GitHub\Autonomous-Car-CNN-Model\beta_simulator_windows\beta_simulator_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: D:\Users\PC\Documents\GitHub\Autonomous-Car-CNN-Model\beta_simulator_windows\beta_simulator_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
-Loading D:\Users\PC\Documents\GitHub\Autonomous-Car-CNN-Model\beta_simulator_windows\beta_simulator_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
-Platform assembly: D:\Users\PC\Documents\GitHub\Autonomous-Car-CNN-Model\beta_simulator_windows\beta_simulator_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading D:\Users\PC\Documents\GitHub\Autonomous-Car-CNN-Model\beta_simulator_windows\beta_simulator_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: D:\Users\PC\Documents\GitHub\Autonomous-Car-CNN-Model\beta_simulator_windows\beta_simulator_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
-Loading D:\Users\PC\Documents\GitHub\Autonomous-Car-CNN-Model\beta_simulator_windows\beta_simulator_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
-Platform assembly: D:\Users\PC\Documents\GitHub\Autonomous-Car-CNN-Model\beta_simulator_windows\beta_simulator_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading D:\Users\PC\Documents\GitHub\Autonomous-Car-CNN-Model\beta_simulator_windows\beta_simulator_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: D:\Users\PC\Documents\GitHub\Autonomous-Car-CNN-Model\beta_simulator_windows\beta_simulator_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading D:\Users\PC\Documents\GitHub\Autonomous-Car-CNN-Model\beta_simulator_windows\beta_simulator_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: D:\Users\PC\Documents\GitHub\Autonomous-Car-CNN-Model\beta_simulator_windows\beta_simulator_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
-Loading D:\Users\PC\Documents\GitHub\Autonomous-Car-CNN-Model\beta_simulator_windows\beta_simulator_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
-- Completed reload, in  0.023 seconds
-Platform assembly: D:\Users\PC\Documents\GitHub\Autonomous-Car-CNN-Model\beta_simulator_windows\beta_simulator_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: D:\Users\PC\Documents\GitHub\Autonomous-Car-CNN-Model\beta_simulator_windows\beta_simulator_Data\Managed\System.dll (this message is harmless)
+Platform assembly: D:\Github\Autonomous-Car-CNN-Model\beta_simulator_windows\beta_simulator_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Github\Autonomous-Car-CNN-Model\beta_simulator_windows\beta_simulator_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Github\Autonomous-Car-CNN-Model\beta_simulator_windows\beta_simulator_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Github\Autonomous-Car-CNN-Model\beta_simulator_windows\beta_simulator_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Github\Autonomous-Car-CNN-Model\beta_simulator_windows\beta_simulator_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Github\Autonomous-Car-CNN-Model\beta_simulator_windows\beta_simulator_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Github\Autonomous-Car-CNN-Model\beta_simulator_windows\beta_simulator_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\Github\Autonomous-Car-CNN-Model\beta_simulator_windows\beta_simulator_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: D:\Github\Autonomous-Car-CNN-Model\beta_simulator_windows\beta_simulator_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Github\Autonomous-Car-CNN-Model\beta_simulator_windows\beta_simulator_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Github\Autonomous-Car-CNN-Model\beta_simulator_windows\beta_simulator_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Github\Autonomous-Car-CNN-Model\beta_simulator_windows\beta_simulator_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Github\Autonomous-Car-CNN-Model\beta_simulator_windows\beta_simulator_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\Github\Autonomous-Car-CNN-Model\beta_simulator_windows\beta_simulator_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.022 seconds
+Platform assembly: D:\Github\Autonomous-Car-CNN-Model\beta_simulator_windows\beta_simulator_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Github\Autonomous-Car-CNN-Model\beta_simulator_windows\beta_simulator_Data\Managed\System.dll (this message is harmless)
 OnLevelWasLoaded was found on ReturnToMainMenu
 This message has been deprecated and will be removed in a later version of Unity.
 Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
  
 (Filename:  Line: 382)
 
-Platform assembly: D:\Users\PC\Documents\GitHub\Autonomous-Car-CNN-Model\beta_simulator_windows\beta_simulator_Data\Managed\Mono.Security.dll (this message is harmless)
-desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+Platform assembly: D:\Github\Autonomous-Car-CNN-Model\beta_simulator_windows\beta_simulator_Data\Managed\Mono.Security.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3286x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 1.200400 ms
+UnloadTime: 0.887900 ms
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 780 -> priority: 1 
+  Thread -> id: 3a28 -> priority: 1 
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 11.375700 ms
+UnloadTime: 2.585100 ms
 
 Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 511.
-Total: 0.638400 ms (FindLiveObjects: 0.070200 ms CreateObjectMapping: 0.041500 ms MarkObjects: 0.487100 ms  DeleteObjects: 0.027500 ms)
+Total: 0.160100 ms (FindLiveObjects: 0.019500 ms CreateObjectMapping: 0.009500 ms MarkObjects: 0.121300 ms  DeleteObjects: 0.005800 ms)
+
+in menu script 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.689400 ms
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 1351.
+Total: 0.449400 ms (FindLiveObjects: 0.045500 ms CreateObjectMapping: 0.018600 ms MarkObjects: 0.195500 ms  DeleteObjects: 0.189300 ms)
+
+True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Starting to record
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Stopping record
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Writing to disk
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Starting to record
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Stopping record
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Writing to disk
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Starting to record
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Stopping record
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Writing to disk
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DirectoryNotFoundException: Could not find a part of the path "D:\Github\Autonomous-Car-CNN-Model\beta_simulator_windows\11 juni\IMG\center_2021_06_11_23_10_11_388.jpg".
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize) [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream:.ctor (string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare,int)
+  at System.IO.File.Create (System.String path, Int32 bufferSize) [0x00000] in <filename unknown>:0 
+  at System.IO.File.Create (System.String path) [0x00000] in <filename unknown>:0 
+  at System.IO.File.WriteAllBytes (System.String path, System.Byte[] bytes) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Vehicles.Car.CarController.WriteImage (UnityEngine.Camera camera, System.String prepend, System.String timestamp) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Vehicles.Car.CarController+<WriteSamplesToDisk>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.498400 ms
+
+Unloading 372 unused Assets to reduce memory usage. Loaded Objects now: 1224.
+Total: 11.782701 ms (FindLiveObjects: 0.193500 ms CreateObjectMapping: 0.110400 ms MarkObjects: 3.137900 ms  DeleteObjects: 8.338400 ms)
 
 in menu script 2
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 3.493600 ms
+UnloadTime: 0.364500 ms
 
-Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 1623.
-Total: 0.623700 ms (FindLiveObjects: 0.074700 ms CreateObjectMapping: 0.023700 ms MarkObjects: 0.235500 ms  DeleteObjects: 0.289300 ms)
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2041.
+Total: 1.132200 ms (FindLiveObjects: 0.078300 ms CreateObjectMapping: 0.021000 ms MarkObjects: 0.766700 ms  DeleteObjects: 0.265900 ms)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Platform assembly: D:\Github\Autonomous-Car-CNN-Model\beta_simulator_windows\beta_simulator_Data\Managed\System.Configuration.dll (this message is harmless)
+Platform assembly: D:\Github\Autonomous-Car-CNN-Model\beta_simulator_windows\beta_simulator_Data\Managed\System.Xml.dll (this message is harmless)
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.028300 ms
+
+Unloading 139 unused Assets to reduce memory usage. Loaded Objects now: 1227.
+Total: 9.136499 ms (FindLiveObjects: 0.185200 ms CreateObjectMapping: 0.092800 ms MarkObjects: 3.378500 ms  DeleteObjects: 5.478800 ms)
+
+in menu script 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.961700 ms
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2053.
+Total: 4.808500 ms (FindLiveObjects: 0.276100 ms CreateObjectMapping: 0.097400 ms MarkObjects: 3.365300 ms  DeleteObjects: 1.068400 ms)
 
 True
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Default audio device was changed, but the audio system failed to initialize it (No errors.). Attempting to reset sound system.
+Starting to record
  
-(Filename:  Line: 69)
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Stopping record
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Writing to disk
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.242800 ms
+
+Unloading 145 unused Assets to reduce memory usage. Loaded Objects now: 1227.
+Total: 2.991600 ms (FindLiveObjects: 0.068000 ms CreateObjectMapping: 0.019800 ms MarkObjects: 0.993100 ms  DeleteObjects: 1.908700 ms)
+
+in menu script 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.379100 ms
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 2325.
+Total: 5.781300 ms (FindLiveObjects: 0.300300 ms CreateObjectMapping: 0.100700 ms MarkObjects: 4.061300 ms  DeleteObjects: 1.317700 ms)
+
+True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Starting to record
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Stopping record
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Writing to disk
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Starting to record
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Stopping record
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Writing to disk
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+IOException: Sharing violation on path D:\Github\Autonomous-Car-CNN-Model\beta_simulator_windows\11 juni\driving_log.csv
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream:.ctor (string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.StreamWriter..ctor (System.String path, Boolean append, System.Text.Encoding encoding, Int32 bufferSize) [0x00000] in <filename unknown>:0 
+  at System.IO.StreamWriter..ctor (System.String path, Boolean append) [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.StreamWriter:.ctor (string,bool)
+  at System.IO.File.AppendAllText (System.String path, System.String contents) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Vehicles.Car.CarController+<WriteSamplesToDisk>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Stopping record
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Writing to disk
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+IOException: Sharing violation on path D:\Github\Autonomous-Car-CNN-Model\beta_simulator_windows\11 juni\driving_log.csv
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream:.ctor (string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.StreamWriter..ctor (System.String path, Boolean append, System.Text.Encoding encoding, Int32 bufferSize) [0x00000] in <filename unknown>:0 
+  at System.IO.StreamWriter..ctor (System.String path, Boolean append) [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.StreamWriter:.ctor (string,bool)
+  at System.IO.File.AppendAllText (System.String path, System.String contents) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Vehicles.Car.CarController+<WriteSamplesToDisk>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Stopping record
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Writing to disk
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+IOException: Sharing violation on path D:\Github\Autonomous-Car-CNN-Model\beta_simulator_windows\11 juni\driving_log.csv
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream:.ctor (string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.StreamWriter..ctor (System.String path, Boolean append, System.Text.Encoding encoding, Int32 bufferSize) [0x00000] in <filename unknown>:0 
+  at System.IO.StreamWriter..ctor (System.String path, Boolean append) [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.StreamWriter:.ctor (string,bool)
+  at System.IO.File.AppendAllText (System.String path, System.String contents) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Vehicles.Car.CarController+<WriteSamplesToDisk>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Stopping record
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Writing to disk
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+IOException: Sharing violation on path D:\Github\Autonomous-Car-CNN-Model\beta_simulator_windows\11 juni\driving_log.csv
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream:.ctor (string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.StreamWriter..ctor (System.String path, Boolean append, System.Text.Encoding encoding, Int32 bufferSize) [0x00000] in <filename unknown>:0 
+  at System.IO.StreamWriter..ctor (System.String path, Boolean append) [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.StreamWriter:.ctor (string,bool)
+  at System.IO.File.AppendAllText (System.String path, System.String contents) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Vehicles.Car.CarController+<WriteSamplesToDisk>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Stopping record
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Writing to disk
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+IOException: Sharing violation on path D:\Github\Autonomous-Car-CNN-Model\beta_simulator_windows\11 juni\driving_log.csv
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream:.ctor (string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.StreamWriter..ctor (System.String path, Boolean append, System.Text.Encoding encoding, Int32 bufferSize) [0x00000] in <filename unknown>:0 
+  at System.IO.StreamWriter..ctor (System.String path, Boolean append) [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.StreamWriter:.ctor (string,bool)
+  at System.IO.File.AppendAllText (System.String path, System.String contents) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Vehicles.Car.CarController+<WriteSamplesToDisk>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Stopping record
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Writing to disk
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+IOException: Sharing violation on path D:\Github\Autonomous-Car-CNN-Model\beta_simulator_windows\11 juni\driving_log.csv
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream:.ctor (string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.StreamWriter..ctor (System.String path, Boolean append, System.Text.Encoding encoding, Int32 bufferSize) [0x00000] in <filename unknown>:0 
+  at System.IO.StreamWriter..ctor (System.String path, Boolean append) [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.StreamWriter:.ctor (string,bool)
+  at System.IO.File.AppendAllText (System.String path, System.String contents) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Vehicles.Car.CarController+<WriteSamplesToDisk>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Stopping record
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Writing to disk
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+IOException: Sharing violation on path D:\Github\Autonomous-Car-CNN-Model\beta_simulator_windows\11 juni\driving_log.csv
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream:.ctor (string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.StreamWriter..ctor (System.String path, Boolean append, System.Text.Encoding encoding, Int32 bufferSize) [0x00000] in <filename unknown>:0 
+  at System.IO.StreamWriter..ctor (System.String path, Boolean append) [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.StreamWriter:.ctor (string,bool)
+  at System.IO.File.AppendAllText (System.String path, System.String contents) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Vehicles.Car.CarController+<WriteSamplesToDisk>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Stopping record
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Writing to disk
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+IOException: Sharing violation on path D:\Github\Autonomous-Car-CNN-Model\beta_simulator_windows\11 juni\driving_log.csv
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream:.ctor (string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.StreamWriter..ctor (System.String path, Boolean append, System.Text.Encoding encoding, Int32 bufferSize) [0x00000] in <filename unknown>:0 
+  at System.IO.StreamWriter..ctor (System.String path, Boolean append) [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.StreamWriter:.ctor (string,bool)
+  at System.IO.File.AppendAllText (System.String path, System.String contents) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Vehicles.Car.CarController+<WriteSamplesToDisk>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Stopping record
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Writing to disk
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+IOException: Sharing violation on path D:\Github\Autonomous-Car-CNN-Model\beta_simulator_windows\11 juni\driving_log.csv
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream:.ctor (string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.StreamWriter..ctor (System.String path, Boolean append, System.Text.Encoding encoding, Int32 bufferSize) [0x00000] in <filename unknown>:0 
+  at System.IO.StreamWriter..ctor (System.String path, Boolean append) [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.StreamWriter:.ctor (string,bool)
+  at System.IO.File.AppendAllText (System.String path, System.String contents) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Vehicles.Car.CarController+<WriteSamplesToDisk>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Stopping record
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Writing to disk
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+IOException: Sharing violation on path D:\Github\Autonomous-Car-CNN-Model\beta_simulator_windows\11 juni\driving_log.csv
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream:.ctor (string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.StreamWriter..ctor (System.String path, Boolean append, System.Text.Encoding encoding, Int32 bufferSize) [0x00000] in <filename unknown>:0 
+  at System.IO.StreamWriter..ctor (System.String path, Boolean append) [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.StreamWriter:.ctor (string,bool)
+  at System.IO.File.AppendAllText (System.String path, System.String contents) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Vehicles.Car.CarController+<WriteSamplesToDisk>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Stopping record
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Writing to disk
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+IOException: Sharing violation on path D:\Github\Autonomous-Car-CNN-Model\beta_simulator_windows\11 juni\driving_log.csv
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream:.ctor (string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.StreamWriter..ctor (System.String path, Boolean append, System.Text.Encoding encoding, Int32 bufferSize) [0x00000] in <filename unknown>:0 
+  at System.IO.StreamWriter..ctor (System.String path, Boolean append) [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.StreamWriter:.ctor (string,bool)
+  at System.IO.File.AppendAllText (System.String path, System.String contents) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Vehicles.Car.CarController+<WriteSamplesToDisk>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Stopping record
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Writing to disk
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+IOException: Sharing violation on path D:\Github\Autonomous-Car-CNN-Model\beta_simulator_windows\11 juni\driving_log.csv
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream:.ctor (string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.StreamWriter..ctor (System.String path, Boolean append, System.Text.Encoding encoding, Int32 bufferSize) [0x00000] in <filename unknown>:0 
+  at System.IO.StreamWriter..ctor (System.String path, Boolean append) [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.StreamWriter:.ctor (string,bool)
+  at System.IO.File.AppendAllText (System.String path, System.String contents) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Vehicles.Car.CarController+<WriteSamplesToDisk>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Stopping record
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Writing to disk
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+IOException: Sharing violation on path D:\Github\Autonomous-Car-CNN-Model\beta_simulator_windows\11 juni\driving_log.csv
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream:.ctor (string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.StreamWriter..ctor (System.String path, Boolean append, System.Text.Encoding encoding, Int32 bufferSize) [0x00000] in <filename unknown>:0 
+  at System.IO.StreamWriter..ctor (System.String path, Boolean append) [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.StreamWriter:.ctor (string,bool)
+  at System.IO.File.AppendAllText (System.String path, System.String contents) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Vehicles.Car.CarController+<WriteSamplesToDisk>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.447400 ms
+
+Unloading 179 unused Assets to reduce memory usage. Loaded Objects now: 1224.
+Total: 6.614200 ms (FindLiveObjects: 0.089300 ms CreateObjectMapping: 0.050500 ms MarkObjects: 2.358100 ms  DeleteObjects: 4.114900 ms)
+
+in menu script 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.712100 ms
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 2325.
+Total: 6.479500 ms (FindLiveObjects: 0.300800 ms CreateObjectMapping: 0.103900 ms MarkObjects: 4.346900 ms  DeleteObjects: 1.726800 ms)
+
+True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Starting to record
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Stopping record
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Writing to disk
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Starting to record
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Stopping record
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Writing to disk
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+IOException: Sharing violation on path D:\Github\Autonomous-Car-CNN-Model\beta_simulator_windows\11 juni\driving_log.csv
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream:.ctor (string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.StreamWriter..ctor (System.String path, Boolean append, System.Text.Encoding encoding, Int32 bufferSize) [0x00000] in <filename unknown>:0 
+  at System.IO.StreamWriter..ctor (System.String path, Boolean append) [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.StreamWriter:.ctor (string,bool)
+  at System.IO.File.AppendAllText (System.String path, System.String contents) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Vehicles.Car.CarController+<WriteSamplesToDisk>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 11.659300 ms
+
+Unloading 179 unused Assets to reduce memory usage. Loaded Objects now: 1224.
+Total: 8.960900 ms (FindLiveObjects: 0.117600 ms CreateObjectMapping: 0.067600 ms MarkObjects: 2.301200 ms  DeleteObjects: 6.472900 ms)
+
+in menu script 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.798500 ms
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 2325.
+Total: 5.363300 ms (FindLiveObjects: 0.298200 ms CreateObjectMapping: 0.103900 ms MarkObjects: 3.214800 ms  DeleteObjects: 1.745100 ms)
+
+True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Starting to record
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Stopping record
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Writing to disk
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Starting to record
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Stopping record
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Writing to disk
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
 Starting to record
  
