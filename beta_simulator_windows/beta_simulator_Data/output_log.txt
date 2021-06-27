@@ -21,7 +21,7 @@ Platform assembly: D:\Github\Autonomous-Car-CNN-Model\beta_simulator_windows\bet
 Loading D:\Github\Autonomous-Car-CNN-Model\beta_simulator_windows\beta_simulator_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
 Platform assembly: D:\Github\Autonomous-Car-CNN-Model\beta_simulator_windows\beta_simulator_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
 Loading D:\Github\Autonomous-Car-CNN-Model\beta_simulator_windows\beta_simulator_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
-- Completed reload, in  0.383 seconds
+- Completed reload, in  0.344 seconds
 Platform assembly: D:\Github\Autonomous-Car-CNN-Model\beta_simulator_windows\beta_simulator_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: D:\Github\Autonomous-Car-CNN-Model\beta_simulator_windows\beta_simulator_Data\Managed\System.dll (this message is harmless)
 OnLevelWasLoaded was found on ReturnToMainMenu
@@ -35,76 +35,24 @@ desktop: 1920x1080 60Hz; virtual: 3286x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.818500 ms
+UnloadTime: 5.538100 ms
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 2660 -> priority: 1 
+  Thread -> id: 254 -> priority: 1 
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 2.044900 ms
+UnloadTime: 2.295400 ms
 
 Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 511.
-Total: 0.257600 ms (FindLiveObjects: 0.031300 ms CreateObjectMapping: 0.016200 ms MarkObjects: 0.175400 ms  DeleteObjects: 0.008900 ms)
-
-in menu script 2
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 2.566900 ms
-
-Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 1351.
-Total: 0.523900 ms (FindLiveObjects: 0.064400 ms CreateObjectMapping: 0.024000 ms MarkObjects: 0.235800 ms  DeleteObjects: 0.199100 ms)
-
-True
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 2.694000 ms
-
-Unloading 145 unused Assets to reduce memory usage. Loaded Objects now: 527.
-Total: 1.580100 ms (FindLiveObjects: 0.064900 ms CreateObjectMapping: 0.013800 ms MarkObjects: 0.199400 ms  DeleteObjects: 1.301000 ms)
+Total: 0.421800 ms (FindLiveObjects: 0.031600 ms CreateObjectMapping: 0.015900 ms MarkObjects: 0.346700 ms  DeleteObjects: 0.009400 ms)
 
 in menu script 2
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.342600 ms
+UnloadTime: 2.492600 ms
 
-Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 1625.
-Total: 2.106800 ms (FindLiveObjects: 0.173500 ms CreateObjectMapping: 0.066100 ms MarkObjects: 0.658800 ms  DeleteObjects: 1.205900 ms)
-
-True
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Starting to record
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Stopping record
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Writing to disk
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 11.094100 ms
-
-Unloading 406 unused Assets to reduce memory usage. Loaded Objects now: 935.
-Total: 12.585600 ms (FindLiveObjects: 0.171900 ms CreateObjectMapping: 0.105800 ms MarkObjects: 2.036200 ms  DeleteObjects: 10.268701 ms)
-
-in menu script 2
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.682400 ms
-
-Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 2036.
-Total: 3.988400 ms (FindLiveObjects: 0.290000 ms CreateObjectMapping: 0.107600 ms MarkObjects: 1.926000 ms  DeleteObjects: 1.663800 ms)
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 1623.
+Total: 0.626800 ms (FindLiveObjects: 0.061100 ms CreateObjectMapping: 0.020400 ms MarkObjects: 0.246200 ms  DeleteObjects: 0.298800 ms)
 
 True
  
@@ -131,72 +79,6 @@ Stopping record
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
 Writing to disk
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Starting to record
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Stopping record
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Writing to disk
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 3.101800 ms
-
-Unloading 179 unused Assets to reduce memory usage. Loaded Objects now: 935.
-Total: 2.584600 ms (FindLiveObjects: 0.084200 ms CreateObjectMapping: 0.018000 ms MarkObjects: 0.477400 ms  DeleteObjects: 2.002700 ms)
-
-in menu script 2
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.285700 ms
-
-Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 2036.
-Total: 1.043200 ms (FindLiveObjects: 0.133200 ms CreateObjectMapping: 0.025800 ms MarkObjects: 0.490800 ms  DeleteObjects: 0.392200 ms)
-
-True
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Starting to record
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Stopping record
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Writing to disk
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Starting to record
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Stopping record
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Writing to disk
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 3.254200 ms
-
-Unloading 179 unused Assets to reduce memory usage. Loaded Objects now: 935.
-Total: 2.447900 ms (FindLiveObjects: 0.055200 ms CreateObjectMapping: 0.017500 ms MarkObjects: 0.491800 ms  DeleteObjects: 1.882400 ms)
-
-in menu script 2
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
