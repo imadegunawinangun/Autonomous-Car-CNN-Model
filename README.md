@@ -1,4 +1,7 @@
 # Autonomous-Car-CNN-Model
+Dokumentasi dapat dilihat di link dibawah:
+https://github.com/imadegunawinangun/Autonomous-Car-CNN-Model
+
 Autonomous Car CNN Model
 
 -data : https://github.com/imadegunawinangun/final-track
