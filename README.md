@@ -13,7 +13,7 @@ Autonomous Car CNN Model
 
 -track 3 : https://s3-us-west-1.amazonaws.com/udacity-selfdrivingcar/Term1-Sim/term1-simulator-windows.zip
 
--notebook : https://github.com/imadegunawinangun/Autonomous-Car-CNN-Model/blob/main/Rancang%20Bangun%20Model%20Deep%20Learning%20ipynb.ipynb
+-notebook : https://github.com/imadegunawinangun/Autonomous-Car-CNN-Model/blob/main/Rancang_Bangun_Model_Deep_Learning.ipynb
 -model : https://github.com/imadegunawinangun/Autonomous-Car-CNN-Model/blob/main/model%20-%202021-07-27T015318.277.h5
 
 -konfigurasi server-client for simulation : https://github.com/imadegunawinangun/Autonomous-Car-CNN-Model/blob/main/drive.py
